@@ -3,10 +3,74 @@
   <component name="ChangeListManager">
     <list default="true" id="19d16e0b-4944-4a4c-bd4f-795b7ef78944" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../objsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../objsets/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/root.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$06a87b007afdb75b0e25$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$06a87b007afdb75b0e25$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$06a87b007afdb75b0e25.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$06a87b007afdb75b0e25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1e50f50d8f06289edce0$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1e50f50d8f06289edce0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1e50f50d8f06289edce0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$1e50f50d8f06289edce0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2a3cdd5bf3f36ad7084d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2a3cdd5bf3f36ad7084d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2a3cdd5bf3f36ad7084d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$66daa587f116feb85426$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$66daa587f116feb85426.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$66daa587f116feb85426.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7fe0f73a6ca1b022746c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7fe0f73a6ca1b022746c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7fe0f73a6ca1b022746c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7fe0f73a6ca1b022746c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$aefce603b2cd3f8f8ada$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$aefce603b2cd3f8f8ada.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$aefce603b2cd3f8f8ada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$eb035cfc3bf592aa84a1$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$eb035cfc3bf592aa84a1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$eb035cfc3bf592aa84a1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$eb035cfc3bf592aa84a1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3193b4dfc1b81aff97f0$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3193b4dfc1b81aff97f0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3193b4dfc1b81aff97f0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3193b4dfc1b81aff97f0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b99f4800e78b069fd9a$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b99f4800e78b069fd9a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b99f4800e78b069fd9a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b99f4800e78b069fd9a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e3d51c214357dccd733$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e3d51c214357dccd733$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e3d51c214357dccd733.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e3d51c214357dccd733.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e6cb029cf2111bffed9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e6cb029cf2111bffed9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e6cb029cf2111bffed9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e6cb029cf2111bffed9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5c86d70ec9ddef3fafbd$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5c86d70ec9ddef3fafbd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5c86d70ec9ddef3fafbd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5c86d70ec9ddef3fafbd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94d2558c487723dfb555$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94d2558c487723dfb555$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94d2558c487723dfb555$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94d2558c487723dfb555.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$94d2558c487723dfb555.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7a9137c66a378218b8d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7a9137c66a378218b8d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7a9137c66a378218b8d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a7a9137c66a378218b8d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a8bac24c1cb2a730270d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a8bac24c1cb2a730270d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a8bac24c1cb2a730270d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a8bac24c1cb2a730270d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c879b618b23c396929fa$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c879b618b23c396929fa$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c879b618b23c396929fa.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c879b618b23c396929fa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f9da77778d4f79900268$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f9da77778d4f79900268$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f9da77778d4f79900268.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f9da77778d4f79900268.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/streams-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/streams-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/streams-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/streams-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-compile-internal.xml" afterDir="false" />
@@ -23,31 +87,33 @@
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-streams-build-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/streams/GameDef.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/streams/GameDef.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/streams/Solver.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/streams/Solver.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/streams/StringParserTerrain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/streams/StringParserTerrain.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/streams/BloxorzSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/streams/BloxorzSuite.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$from$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$1$$anonfun$apply$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$findChar$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain$class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/StringParserTerrain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/progfun2-streams_2.11-0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/progfun2-streams_2.11-0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSubmission/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$2$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$2$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$from$1$$anonfun$apply$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver$class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/streams/Solver.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -83,8 +149,8 @@
       <file leaf-file-name="Bloxorz.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Bloxorz.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="720">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,7 +158,7 @@
       <file leaf-file-name="StringParserTerrain.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/streams/StringParserTerrain.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
+            <state relative-caret-position="1245">
               <caret line="83" column="22" selection-start-line="83" selection-start-column="15" selection-end-line="83" selection-end-column="22" />
             </state>
           </provider>
@@ -101,8 +167,8 @@
       <file leaf-file-name="BloxorzSuite.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/streams/BloxorzSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="15">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#17#46#0" expanded="true" />
               </folding>
@@ -113,8 +179,8 @@
       <file leaf-file-name="GameDef.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/streams/GameDef.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+            <state relative-caret-position="205">
+              <caret line="151" column="53" selection-start-line="151" selection-start-column="53" selection-end-line="151" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -122,8 +188,8 @@
       <file leaf-file-name="Solver.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Solver.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="101" column="6" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+            <state relative-caret-position="235">
+              <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -138,8 +204,8 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
         <option value="$PROJECT_DIR$/src/main/scala/streams/StringParserTerrain.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/streams/GameDef.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/streams/BloxorzSuite.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/streams/GameDef.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/streams/Solver.scala" />
       </list>
     </option>
@@ -164,6 +230,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -210,8 +278,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +300,7 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BloxorzSuites" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration name="BloxorzSuites" type="JUnit" factoryName="JUnit" editBeforeRun="true">
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="streams.*" />
@@ -260,7 +326,6 @@
       </patterns>
       <method>
         <option name="Make" enabled="false" />
-        <option name="MakeProject" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -345,7 +410,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BloxorzSuites" />
         <item itemvalue="JUnit.null" />
         <item itemvalue="JUnit.null" />
         <item itemvalue="JUnit.null" />
@@ -419,34 +483,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 17m 57s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 38m 33s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 20m 08s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 49m 18s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 28m 58s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 50m 41s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 29m 30s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 51m 19s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 31m 05s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 52m 41s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 31m 54s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 54m 31s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 35m 23s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 56m 55s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 37m 13s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 57m 31s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 39m 09s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 58m 03s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BloxorzSuites - 2018.11.05 at 15h 44m 10s.xml">
+    <history-entry file="BloxorzSuites - 2018.11.05 at 17h 58m 59s.xml">
       <configuration name="BloxorzSuites" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -461,15 +525,15 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.14860427" side_tool="true" visible="true" weight="0.32928944" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1502463" side_tool="true" visible="true" weight="0.32928944" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32922825" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8513957" visible="true" weight="0.32928944" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8497537" visible="true" weight="0.32928944" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49671593" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4958949" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" sideWeight="0.4958949" weight="0.32928944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26600984" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" sideWeight="0.49507388" weight="0.32928944" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32928944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -496,6 +560,44 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Bloxorz.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/StringParserTerrain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="15" selection-end-line="83" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/streams/BloxorzSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#17#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Solver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="22" lean-forward="true" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/GameDef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Bloxorz.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -661,41 +763,41 @@
     <entry file="file://$PROJECT_DIR$/project/buildSettings.sbt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/StringParserTerrain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="15" selection-end-line="83" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Bloxorz.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/GameDef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="151" column="53" selection-start-line="151" selection-start-column="53" selection-end-line="151" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/streams/BloxorzSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="15">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#17#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Bloxorz.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/GameDef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/streams/StringParserTerrain.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="83" column="22" selection-start-line="83" selection-start-column="15" selection-end-line="83" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/streams/Solver.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="101" column="6" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+        <state relative-caret-position="235">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
         </state>
       </provider>
     </entry>

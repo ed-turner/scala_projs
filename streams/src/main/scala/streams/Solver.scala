@@ -78,7 +78,9 @@ trait Solver extends GameDef {
     case _ =>
       val more = for {
         (b, m) <- initial
+        if b.isLegal
         (block, move) <- newNeighborsOnly(neighborsWithHistory(b, m), explored)
+        if block.isLegal
       } yield (block, move)
 
       initial #::: from( more, explored ++ more.map(_._1))
@@ -112,7 +114,7 @@ trait Solver extends GameDef {
    */
   lazy val solution: List[Move] = pathsToGoal match {
     case Stream.Empty => List()
-    case (block, moves) #:: xs => moves
+    case (_, moves) #:: xs => moves.reverse
   }
 
 }
