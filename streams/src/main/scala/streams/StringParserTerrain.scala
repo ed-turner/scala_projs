@@ -52,34 +52,38 @@ trait StringParserTerrain extends GameDef {
    * a valid position (not a '-' character) inside the terrain described
    * by `levelVector`.
    */
-  def terrainFunction(levelVector: Vector[Vector[Char]]): Pos => Boolean = (pos: Pos) => !(levelVector(pos.row)(pos.col) == '-')
-
-  /**
-   * This function should return the position of character `c` in the
-   * terrain described by `levelVector`. You can assume that the `c`
-   * appears exactly once in the terrain.
-   *
-   * Hint: you can use the functions `indexWhere` and / or `indexOf` of the
-   * `Vector` class
-   */
-  def findChar(c: Char, levelVector: Vector[Vector[Char]]): Pos = {
-
-    val num_rows: Int = levelVector.length
-    val num_cols: Int = levelVector(0).length
-
-    (for {
-      i <- 0 until num_rows
-      j <- 0 until num_cols
-      if levelVector(i)(j) == c
-    } yield Pos(i, j)).headOption.getOrElse(Pos(-1, -1))
-
+  def terrainFunction(levelVector: Vector[Vector[Char]]): Terrain = {
+    pos: Pos => {
+      (pos.row < levelVector.length && pos.row >= 0) && (pos.col < levelVector(0).length && pos.col >= 0) && (levelVector(pos.row)(pos.col) != '-' )
+    }
   }
+      /**
+        * This function should return the position of character `c` in the
+        * terrain described by `levelVector`. You can assume that the `c`
+        * appears exactly once in the terrain.
+        *
+        * Hint: you can use the functions `indexWhere` and / or `indexOf` of the
+        * `Vector` class
+        */
+      def findChar(c: Char, levelVector: Vector[Vector[Char]]): Pos = {
 
-  private lazy val vector: Vector[Vector[Char]] =
-    Vector(level.split("\n").map(str => Vector(str: _*)): _*)
+        val charPos = for {
+          v <- levelVector
+          x = levelVector.indexOf(v)
+          y = v.indexOf(c)
+          if y > 0
+        } yield Pos(x,y)
 
-  lazy val terrain: Terrain = terrainFunction(vector)
-  lazy val startPos: Pos = findChar('S', vector)
-  lazy val goal: Pos = findChar('T', vector)
+        charPos(0)
+
+      }
+
+      private lazy val vector: Vector[Vector[Char]] =
+      Vector(level.split("\n").map(str => Vector(str: _*)): _*)
+
+      lazy val terrain: Terrain = terrainFunction(vector)
+      lazy val startPos: Pos = findChar('S', vector)
+      lazy val goal: Pos = findChar('T', vector)
+
 
 }
