@@ -65,7 +65,8 @@ trait Solver extends GameDef {
    * construct the correctly sorted stream.
    */
   def from(initial: Stream[(Block, List[Move])],
-           explored: Set[Block]): Stream[(Block, List[Move])] = from(initial.flatMap{ case(b,m) => neighborsWithHistory(b,m)},
+           explored: Set[Block]): Stream[(Block, List[Move])] = from(
+    newNeighborsOnly(initial.flatMap{ case(b,m) => neighborsWithHistory(b,m)}, explored),
     explored union initial.map{case(b,_) => b}.toSet)
 
   /**
